@@ -11,7 +11,7 @@ last updated (idem)
 
 # Books
 - [Christopher Allen, Julie Moronuki - Haskell Programming From First Principles](http://haskellbook.com/) 
-> 60$ Download : Learning haskell **without** having programmed before.
+> 60$ Download : Learning Haskell **without** having programmed before.
 
 - [Miran Lipovača - Learn You A Haskell For Great Good](http://learnyouahaskell.com/) 
 >free / 27€ paperback - similar to the above.
