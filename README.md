@@ -14,19 +14,19 @@ last fully updated / checked (idem)
 > 60$ Download : Learning Haskell **without** having programmed before.
 
 - [Miran Lipovača - Learn You A Haskell For Great Good](http://learnyouahaskell.com/) 
->free / 27€ paperback - similar to the above.
+> free / 27€ paperback - similar to the above.
 
 - [Simon Thompson - Haskell: The Craft of Functional Programming](http://www.haskellcraft.com/craft3e/Home.html)
->57€
+> 57€
 
 - [Bryan O'Sullivan, Don Stewart, John Goerzen - Real World Haskell](http://book.realworldhaskell.org/) 
->free / 36€ paperback
+> free / 36€ paperback
 
 - [Graham Hutton - Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/book.html) 
 > 50€
 
 - [Paul Hudak - The Haskell School of Music](http://haskell.cs.yale.edu/wp-content/uploads/2015/03/HSoM.pdf) 
->free
+> free
 
 - [Kees Doets and Jan van Eijck - The Haskell Road to Logic, Math and Programming](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
 > free
@@ -93,25 +93,25 @@ last fully updated / checked (idem)
 > free / account needed / job offers + recruitment system
 
 - [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems) 
-> problems with solutions
+> free / problems with solutions
 
 - [The Monad Challenges](https://mightybyte.github.io/monad-challenges/) 
 > free / start with Set 1 (don't skip it)
 
 - [The Computer Language Benchmarks Game](http://benchmarksgame.alioth.debian.org/) 
-> Will your toy benchmark program be faster if you write it in a different programming language? It depends how you write it!
+> From the site: Will your toy benchmark program be faster if you write it in a different programming language? It depends how you write it!
 
 - [Haskell Quiz](https://wiki.haskell.org/Haskell_Quiz) 
-> problems with solutions by various authors
+> free / problems with solutions by various authors
 
 - [SPOJ](http://www.spoj.com/) 
-> SPOJ (Sphere Online Judge) is an automated programming contest website. It has a large problem set archive, and accepts solutions in many languages, including Haskell. Solving the problems can be a interesting way to learn Haskell. [Explanation and Help here ...](https://wiki.haskell.org/SPOJ) 
+> From the site: SPOJ (Sphere Online Judge) is an automated programming contest website. It has a large problem set archive, and accepts solutions in many languages, including Haskell. Solving the problems can be a interesting way to learn Haskell. [Explanation and Help here ...](https://wiki.haskell.org/SPOJ) 
 
 - [Project Euler](https://projecteuler.net/) 
 > free / account needed, mathematical (yay)
 
 - [ICFP Programming Contest](httP://icfpcontest.org) 
-
+> an international competition that publishes the problems and solutions thereafter
 
 
 
