@@ -3,7 +3,7 @@ A list of Books, Papers, Tutorials, Coding Challenges, Online Courses, Blogs and
 
 
 # Created 16th May 2016
-last updated (idem)
+last fully updated / checked (idem)
 
 
 
