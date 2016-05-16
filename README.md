@@ -99,13 +99,13 @@ last fully updated / checked (idem)
 > free / start with Set 1 (don't skip it)
 
 - [The Computer Language Benchmarks Game](http://benchmarksgame.alioth.debian.org/) 
-> From the site: Will your toy benchmark program be faster if you write it in a different programming language? It depends how you write it!
+> (From the site) Will your toy benchmark program be faster if you write it in a different programming language? It depends how you write it!
 
 - [Haskell Quiz](https://wiki.haskell.org/Haskell_Quiz) 
 > free / problems with solutions by various authors
 
 - [SPOJ](http://www.spoj.com/) 
-> From the site: SPOJ (Sphere Online Judge) is an automated programming contest website. It has a large problem set archive, and accepts solutions in many languages, including Haskell. Solving the problems can be a interesting way to learn Haskell. [Explanation and Help here ...](https://wiki.haskell.org/SPOJ) 
+> (From the site) SPOJ (Sphere Online Judge) is an automated programming contest website. It has a large problem set archive, and accepts solutions in many languages, including Haskell. Solving the problems can be a interesting way to learn Haskell. [Explanation and Help here ...](https://wiki.haskell.org/SPOJ) 
 
 - [Project Euler](https://projecteuler.net/) 
 > free / account needed, mathematical (yay)
