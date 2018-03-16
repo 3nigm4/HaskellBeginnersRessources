@@ -4,7 +4,11 @@ A list of Books, Papers, Tutorials, Coding Challenges, Online Courses, Blogs and
 
 # Created 16th May 2016
 last fully updated / checked (idem)
+last edit March 2018
 
+# Setting Up Dev Environment
+one wouldn't believe HOW hard and troublesome this was and still is ... just follow this tutorial:
+- [Vacation Labs Haskell Dev Setup](https://www.vacationlabs.com/haskell/environment-setup.html#) 
 
 
 
